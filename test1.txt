@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7C2E-89ED
+
+ Directory of C:\Users\Ritesh Verma\Desktop\Git
+
+01-05-2020  11:09 PM    <DIR>          .
+01-05-2020  11:09 PM    <DIR>          ..
+01-05-2020  11:09 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  104,620,793,856 bytes free
